@@ -1,0 +1,15 @@
+Student name : Shabnoor Sayed
+Student id : 133649191
+
+workshop 02 reflection 
+ 
+I found this workshop very interesting and challenging it helped me to fully understand the core of the data types which we studied in class and why can't we use
+int or float for certain thing and the use of double as well, when I started doing the in lab part I was feeling lost as I understood the logic but was unable 
+to connect everything togeather. I learned various new for example (%.2f) we used this to round off the values of the balance owing.
+It is good to covert float into int because floating point are less accurate than integers other than that integers are smaller therefore the arthmatic operations are 
+faster.
+To get the remainder it is best to use mod because it is faster and we decrease the number of steps or calculations which we might have used if we tried duvison or subraction
+therefore mod is efficent to calculate remainder.
+A challenge which i faced when i tried to submitt my lab was that it was even giving me the error if I have used a capital alphabet instead of small in matrix and due to which
+my submission was aborting.
+Previous weeks quiz was very easy for me I studied everything before my quiz and I found it a perfect way to test all the tings we studied.

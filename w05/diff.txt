@@ -1,0 +1,14 @@
+In line number 55 of your output:
+The output should be:
+Exiting Employee Data Program. Good Bye!!!
+^
+But your output is: 
+ Exiting Employee Data Program. Good Bye!!!
+^
+
+Unmatched character details:
+The character in column 1 is supposed to be:
+  [E] ASCII code(69)
+but you printed
+  [Space] ASCII code(32)
+

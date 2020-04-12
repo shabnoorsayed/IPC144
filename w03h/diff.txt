@@ -1,0 +1,14 @@
+In line number 15 of your output:
+The output should be:
+Incorrect values, temperatures must be in the range -40 to 40, high must be greater than low.
+                                                    ^
+But your output is: 
+Incorrect values, temperatures must be in the range of -40 to 40, high must be greater than low.
+                                                    ^
+
+Unmatched character details:
+The character in column 53 is supposed to be:
+  [-] ASCII code(45)
+but you printed
+  [o] ASCII code(111)
+

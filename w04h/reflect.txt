@@ -1,0 +1,8 @@
+At home part of this workshop was a bit challenging as i was stuck when we had to find the average as each time i was trying for the check of 0 days it was exiting with goodbye status instead of invalid entry and finally i found that i was just putting a incomplete check so i was using while(days>0){} and then i corrected it with while(days>=0){} and after that everything worked fine. When i started doing this workshop i felt that it would be tough and maybe i won't be able to do it but as i worked through the problem in small step everything worked out great.
+
+The good thing about using array was it's reuseabilty, so i just declared it once at the top and used everywhere in my program other then that it is easy to store multiple values in comparision with a varibles.One drawback is that we are declaring max size array which results in wastage of unnecessary memory.
+we could also use switch statements and do while loop to solve this problem.
+
+best practice to start iterating by zero is because the array starts with zero and ends with size-1 therefore we always start the iteration with 0. 
+
+last week quiz was tricky although i knew most of the stuff i made very very stupid errors like forget to write "&" in scanf so i was disappointed by myself that how can make such silly mistakes at this point but rest was pretty well. 

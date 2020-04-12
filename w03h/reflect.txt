@@ -1,0 +1,5 @@
+I really enjoyed working on this workshop both in lab and at home parts were fun to work as i really like working with loops so i struglled less with this workshop in particular, i didn't use pseducode but i used flow chart to understand the problem fully before starting to work on it as i have as mentioned to my professor in class that it is hard to make sense of the problem just by looking at the steps and i would like to have a brief description of the problem at the start of workshop files so instead of follwing the steps provided to code we can also use our critical thinking to form solutions.
+
+for my in lab part i just used for loop and while to solve everything but for at home solution i also used if statements as we wanted to store the values to calculate the means and also the highest and lowest tempreature.
+
+I didn't used visual studio debugger as i am still learning it and trying to get a hang of it therefore to test my calculations i used printf() at multiple places where i felt i need to check any value.
